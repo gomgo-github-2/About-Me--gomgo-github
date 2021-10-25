@@ -22,4 +22,5 @@ _Tech_
  - GBATemp.net: gomgo (https://gbatemp.net/members/gomgo.567856/)
  - ElOtroLado: [+[-gmg-]] (https://www.elotrolado.net/memberlist.php?mode=viewprofile&u=576630)
  - Itch.io: gomgo-github (http://gomgo-github.itch.io/)
-And much more, but i can't remember xD, bye
+
+###### And much more, but i can't remember xD, bye
