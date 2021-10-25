@@ -24,3 +24,5 @@ _Tech_
  - Itch.io: gomgo-github (http://gomgo-github.itch.io/)
 
 ###### And much more, but i can't remember xD, bye
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
