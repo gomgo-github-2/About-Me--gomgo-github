@@ -1,6 +1,6 @@
 <h2 align="center">🎉 gomgo-github-2 🎉</h2>
 
-### Alt-account of @gomgo-github
+### Alt-account of [https://github.com/gomgo-github](@gomgo-github)
 
 ### Languajes
 
