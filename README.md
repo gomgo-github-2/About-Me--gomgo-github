@@ -25,4 +25,4 @@ _Tech_
 
 ###### And much more, but i can't remember xD, bye
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gomgo-github)
